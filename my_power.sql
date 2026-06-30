@@ -1,0 +1,10 @@
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (1, '小米', 60, 1, 20000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (2, 'oppo', 30, 0, 15000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (3, 'vivo', 100, 1, 20000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (4, '罗马仕', 90, 1, 10000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (5, '品胜', 40, 0, 20000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (6, '华为', 80, 1, 15000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (7, '绿联', 100, 1, 20000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (8, '苹果', 40, 0, 10000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (9, '倍思', 60, 1, 25000);
+INSERT INTO `my_power` (`id`, `power_bank`, `remaining_power`, `if`, `battery`) VALUES (11, 'oppo', 60, 1, 15000);
